@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an group management bot.
-I'm a group management bot with lots of Special Features. You can find a list of commands available with / help.
+I'm a group management bot with lots of Special Features. You can find a list of commands available with /help.
 """
 
 HELP_STRINGS = """
